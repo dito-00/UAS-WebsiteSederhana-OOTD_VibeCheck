@@ -53,7 +53,22 @@ Konfirmasi Hapus:
 <img width="1366" height="768" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/76dcfe08-6623-48f1-ad26-ce33d378128c" />
 
 * *Dashboard Admin*
+
 <img width="500" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/3543ce46-ebe2-4689-999d-3b4f85583c29" />
 <img width="500" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/9899b0a3-b094-4e63-a6fa-f76662d9fc7a" />
 <p align="center"> <img width="500" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/f7dd2df5-5082-4fae-b3c5-25062bbda17e" />
 
+* *Tampilan Responsive (Mobile First)*
+Tampilan HP (User):
+<img src="https://github.com/user-attachments/assets/92981532-64ec-4a24-a14d-55f961b81f53" width="250" alt="Tampilan Mobile VibeCheck">
+<img src="https://github.com/user-attachments/assets/6b73fcce-0a10-46d3-b752-b133b18522e3" width="250" alt="Tampilan Mobile VibeCheck">
+<img src="https://github.com/user-attachments/assets/efc221f9-e68c-4c6f-91bb-4782f86fbd2c" width="250" alt="Tampilan Mobile VibeCheck">
+<img src="https://github.com/user-attachments/assets/763f65b9-579c-49bc-b9fd-3f586b20fdce" width="250" alt="Tampilan Mobile VibeCheck">
+<img src="https://github.com/user-attachments/assets/5d4502f0-eddf-4ea1-b2a0-b0a92d46e781" width="250" alt="Tampilan Mobile VibeCheck">
+<img src="https://github.com/user-attachments/assets/a7279763-e0d4-4cc3-a193-f7cb78c2abd2" width="250" alt="Tampilan Mobile VibeCheck">
+
+Tampilan Hp (Admin):
+
+<img src="https://github.com/user-attachments/assets/9b5763a3-abdd-4f80-96c4-a6563727ecff" width="250" alt="Tampilan Mobile VibeCheck">
+<img src="https://github.com/user-attachments/assets/0a5afd0f-7cf0-44c3-b9fd-c2762ba89de8" width="250" alt="Tampilan Mobile VibeCheck">
+<img src="https://github.com/user-attachments/assets/e2a635de-e74a-495e-999e-7cf153b1822f" width="250" alt="Tampilan Mobile VibeCheck">
