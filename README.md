@@ -29,3 +29,5 @@ VibeCheck adalah aplikasi berbasis web yang dirancang untuk membantu pengguna me
 <img width="1366" height="768" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/2f11dda0-e1b8-4fd0-93a1-d1861e587bb3" />
 <img width="1366" height="768" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/9001aa1e-6b99-4acd-a7aa-359c0a24ad48" />
 
+<img src="https://github.com/user-attachments/assets/2f11dda0-e1b8-4fd0-93a1-d1861e587bb3" width="500" alt="Halaman Tambah Item">
+
