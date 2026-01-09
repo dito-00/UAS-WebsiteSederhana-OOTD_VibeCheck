@@ -18,9 +18,9 @@ VibeCheck adalah aplikasi berbasis web yang dirancang untuk membantu pengguna me
 * **Library**: SweetAlert2 (Notifikasi Pop-up)
 
 ## 📁 Struktur Direktori
-- `app/`: Berisi logika inti (Database & Models) [cite: 13]
-- `public/`: Berisi aset (CSS, Gambar, Logo, Uploads) [cite: 13]
-- `views/`: Berisi file tampilan UI [cite: 13]
+- `app/`: Berisi logika inti (Database & Models)
+- `public/`: Berisi aset (CSS, Gambar, Logo, Uploads)
+- `views/`: Berisi file tampilan UI
 - `index.php`: Sebagai Router utama aplikasi 
 
 ## 📸 Screenshots
